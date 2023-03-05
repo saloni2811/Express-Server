@@ -1,0 +1,26 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "My first express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saloni2811/Express-Server.git"
+  },
+  "author": "\"Saloni Singh\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saloni2811/Express-Server/issues"
+  },
+  "homepage": "https://github.com/saloni2811/Express-Server#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
